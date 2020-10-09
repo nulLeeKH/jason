@@ -1,2 +1,2 @@
 # JASON
-Just A Sideshow On Network
+Small games available over the internet
